@@ -1,7 +1,7 @@
 Summary:	A featureful, immutable, and correct URL for Python
 Name:		python-hyperlink
 Version:	18.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Python
 Url:		https://pypi.org/project/hyperlink
