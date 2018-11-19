@@ -21,6 +21,10 @@ with an emphasis on correctness. BSD licensed.
 Summary:	A featureful, immutable, and correct URL for Python
 Group:		Development/Python
 
+%description -n python2-hyperlink
+Python library for finite-state machines
+
+
 %prep
 %setup -qn hyperlink-%{version}
 %apply_patches
