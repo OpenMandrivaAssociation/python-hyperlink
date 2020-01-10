@@ -27,7 +27,7 @@ Python library for finite-state machines
 
 %prep
 %setup -qn hyperlink-%{version}
-%apply_patches
+%autopatch -p1
 
 mkdir python2
 mv `ls |grep -v python2` python2
