@@ -1,11 +1,11 @@
 Summary:	A featureful, immutable, and correct URL for Python
 Name:		python-hyperlink
-Version:	19.0.0
-Release:	3
+Version:	20.0.1
+Release:	1
 License:	MIT
 Group:		Development/Python
 Url:		https://pypi.org/project/hyperlink
-Source0:	https://files.pythonhosted.org/packages/e0/46/1451027b513a75edf676d25a47f601ca00b06a6a7a109e5644d921e7462d/hyperlink-19.0.0.tar.gz
+Source0:	https://files.pythonhosted.org/packages/b7/bf/ecacc60e63d65f7449457bbd8163141c51c4af7aeff7958ec061b8faf915/hyperlink-20.0.1.tar.gz
 BuildRequires:	pkgconfig(python3)
 BuildRequires:	pkgconfig(python2)
 BuildRequires:	python-setuptools
